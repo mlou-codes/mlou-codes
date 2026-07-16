@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 I'm an amateur web developer, professional zine maker, and part-time library enthusiast.
+- 👋 I'm an amateur web developer, professional zine maker, and part-time library card collector.
 - 😄 **Pronouns**: They/Them/Theirs
 - 💻 **Applications/Programs**: Visual Studio Code, GitHub, Slate (Technolutions), Banner (Elucian)
 - 💬 **Languages**: HTML/CSS, Javascript, Liquid Markup
