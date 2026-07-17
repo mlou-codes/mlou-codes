@@ -8,4 +8,4 @@
 - 👍 **Skillsets**: Web Design, Graphic Design, Email Design, and Mental Health Education
 
 ## Reach Out
-📧 **Email**: [mlou.codes@proton.me](mailto:mlou.codes@proton.me])
+📧 **Email**: [mlou.codes@proton.me](mailto:mlou.codes@proton.me)
